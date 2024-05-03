@@ -20,11 +20,9 @@
 
   4.- Al menos 1 consulta de agrupación
 
-
 2ª Parte
 
 Debes realizar un programa python que se conecte a la colección creada en la 1ª parte y mediante un menú permita insercción, eliminación, modificación y al menos una consulta de cada una de los distintos tipos.
-
 
 3ª Parte
 
